@@ -48,12 +48,6 @@ framework in this repository:
 - How to write end-to-end api tests?
 - How to perform `JSON Schema Validation`?
 
-## :writing_hand: Blog Links
-
-- [What is API Testing?](https://mfaisalkhatri.github.io/2020/08/08/apitesting/)
-- [End to End API testing using rest-assured](https://medium.com/@iamfaisalkhatri/end-to-end-api-testing-using-rest-assured-a58c4ea80255)
-- [How to perform JSON Schema Validation using Rest-Assured?](https://medium.com/@iamfaisalkhatri/how-to-perform-json-schema-validation-using-rest-assured-64c3b6616a91)
-- [API Testing using RestAssured and OkHttp](https://mfaisalkhatri.github.io/2020/05/29/restassuredokhttp/)
 
 ## :question: Need Assistance?
 
@@ -61,13 +55,3 @@ framework in this repository:
   OR ping me on any of the social media sites using the below link:
     - [Linktree](https://linktr.ee/adityaanand951)
 
-## :computer: Paid Trainings
-
-- Contact me for Paid trainings related to Test Automation and Software Testing,
-  mail me @ `mohammadfaisalkhatri@gmail.com` or ping me on [LinkedIn](https://www.linkedin.com/in/adityaanand951/)
-
-## :thought_balloon: Checkout the blogs related to Testing written by me on the following links:
-
-- [Medium Blogs](https://medium.com/@iamfaisalkhatri)
-- [LambdaTest Blogs](https://www.lambdatest.com/blog/author/mfaisalkhatri/)
-- [My Website](https://mfaisalkhatri.github.io)
