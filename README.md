@@ -1,4 +1,4 @@
-[![Java CI with Maven](https://github.com/mfaisalkhatri/rest-assured-examples/actions/workflows/maven.yml/badge.svg)](https://github.com/mfaisalkhatri/rest-assured-examples/actions/workflows/maven.yml)
+[![Java CI with Maven](https://github.com/adityaanand951/rest-assured-examples/actions/workflows/maven.yml/badge.svg)](https://github.com/adityaanand951/rest-assured-examples/actions/workflows/maven.yml)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -57,14 +57,14 @@ framework in this repository:
 
 ## :question: Need Assistance?
 
-- Discuss your queries by writing to me @ `mohammadfaisalkhatri@gmail.com`
+- Discuss your queries by writing to me @ `aditya.anand951@gmail.com`
   OR ping me on any of the social media sites using the below link:
-    - [Linktree](https://linktr.ee/faisalkhatri)
+    - [Linktree](https://linktr.ee/adityaanand951)
 
 ## :computer: Paid Trainings
 
 - Contact me for Paid trainings related to Test Automation and Software Testing,
-  mail me @ `mohammadfaisalkhatri@gmail.com` or ping me on [LinkedIn](https://www.linkedin.com/in/faisalkhatri/)
+  mail me @ `mohammadfaisalkhatri@gmail.com` or ping me on [LinkedIn](https://www.linkedin.com/in/adityaanand951/)
 
 ## :thought_balloon: Checkout the blogs related to Testing written by me on the following links:
 
